@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataClasses.dbml](./CS/WebSite/App_Code/DataClasses.dbml) (VB: [DataClasses.dbml](./VB/WebSite/App_Code/DataClasses.dbml))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+<!-- default file list end -->
 # How to bind ASPxScheduler to LINQ Data Source
 
 
